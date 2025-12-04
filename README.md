@@ -9,9 +9,13 @@ A collection of mini React projects built while learning React.
 - **Concepts Learned:** useState hook, conditional rendering, ternary operators, CSS positioning
 - **Location:** `src/App.jsx`
 
-### 2. Coming Soon...
-More mini projects will be added as I continue learning React!
+### 2. ⏱️ Auto Counter
+- **Features:** Automatically increments every second, displays "99+" for counts over 99
+- **Concepts Learned:** useEffect hook, setInterval, cleanup functions, side effects
+- **Location:** `src/02-auto-counter/App.jsx`
 
+### 3. Coming Soon...
+More mini projects will be added as I continue learning React!
 ---
 
 ## How to Run
